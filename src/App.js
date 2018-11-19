@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Link from "@mydesignsystem/link/dist";
+import Link from "@mydesignsystem/link";
 
 class App extends Component {
   render() {
