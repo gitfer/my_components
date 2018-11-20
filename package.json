@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@mydesignsystem/button": "0.0.8",
-    "@mydesignsystem/link": "0.0.8",
+    "@jsport/lordgun-design-system-button": "0.0.9",
+    "@jsport/lordgun-design-system-link": "0.0.9",
     "lodash": "^4.17.11",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",

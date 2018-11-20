@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Link from "@mydesignsystem/link";
+import Link from "@jsport/lordgun-design-system-link";
+import Button from "@jsport/lordgun-design-system-button";
 
 class App extends Component {
   render() {
@@ -18,7 +19,8 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Link> - Hello Button</Link>
+            <Link> - Hello Link</Link>
+            <Button> - Hello Button</Button>
           </a>
         </header>
       </div>
